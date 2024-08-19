@@ -21,6 +21,7 @@ dependencies:
   june_flow_util:
   keyboard_attachable:
   modal_bottom_sheet:
+  music_player_ui: ^1.0.0
   request_ad_permission_page_ui: ^1.0.0+1
   styled_widget:
   tuple: ^2.0.2
@@ -37,6 +38,7 @@ dev_dependencies:
 flutter:
   uses-material-design: true
   assets:
+    - assets/uihub/music_player_ui/
     - assets/uihub/request_ad_permission_page_ui/
     - assets/pubdev.svg
     - assets/github.svg

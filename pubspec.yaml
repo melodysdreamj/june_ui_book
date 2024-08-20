@@ -17,6 +17,7 @@ dependencies:
   flutter_svg:
   flutter_zoom_drawer:
   gap:
+  gmail_ui: ^1.0.0
   june:
   june_flow_util:
   keyboard_attachable:
@@ -38,6 +39,7 @@ dev_dependencies:
 flutter:
   uses-material-design: true
   assets:
+    - assets/uihub/gmail_ui/
     - assets/uihub/music_player_ui/
     - assets/uihub/request_ad_permission_page_ui/
     - assets/pubdev.svg

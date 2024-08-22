@@ -27,6 +27,7 @@ dependencies:
   styled_widget:
   tuple: ^2.0.2
   url_launcher: ^6.3.0
+  weather_page_ui: ^1.0.0
 
 dev_dependencies:
   flutter_test:
@@ -39,6 +40,7 @@ dev_dependencies:
 flutter:
   uses-material-design: true
   assets:
+    - assets/uihub/weather_page_ui/
     - assets/uihub/gmail_ui/
     - assets/uihub/music_player_ui/
     - assets/uihub/request_ad_permission_page_ui/
